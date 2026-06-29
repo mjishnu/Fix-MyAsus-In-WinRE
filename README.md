@@ -57,3 +57,7 @@ credits:
       * RECOVERY partition \[NTFS, 700 MB\] (**HIGHLY EXPERIMENTAL**) : [https://drive.google.com/file/d/1fb5E8ffKV2C-t8K5khG5SrvRO9xrmik5/view?usp=sharing](https://drive.google.com/file/d/1fb5E8ffKV2C-t8K5khG5SrvRO9xrmik5/view?usp=sharing)
 * [Create partitions](https://softwarekeep.com/en-in/blogs/how-to/how-to-create-partitions-on-windows-10) with same size and file format as the donor (ask donor for the size and file format of the partition) for me RESTORE partition is around 22GB (22\*1024 MB)
 * On the newly created partition restore the backup image: [Restore Partition from Backup Image File](https://www.diskgenius.com/manual/restore-partition-from-img.php)
+
+  ### Sample donor partition for ROG Strix G513QY
+  - Recovery: https://drive.google.com/file/d/1SrjKNnW3ZMQ1jRMx7kVHMnDxxvZk_lqu/view?usp=sharing
+
